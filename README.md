@@ -19,10 +19,16 @@ Desde hace un tiempo decidí reconvertirme profesionalmente hacia el desarrollo 
 
 ## 🚀 Proyectos destacados
 
-- [ChatBotAI con Langchain4j, Spring Boot y MongoDB](https://github.com/Punkylawer/ChatBotAI)
-  - Proyecto en desarrollo basado en IA generativa usando Java, LangChain4j y OpenAI.
+- [GestionClientes – API para Estudio Jurídico](https://github.com/Punkylawer/gestionclientes)  
+  CRUD completo desarrollado con Java 17 y Spring Boot 3.4.5 para la gestión de consultas jurídicas.  
+  Incluye autenticación con JWT, protección de endpoints con Spring Security, validaciones personalizadas, filtros por tipo de consulta y apellido, y paginación.
+
+- [ChatBotAI con Langchain4j, Spring Boot y MongoDB](https://github.com/Punkylawer/ChatBotAI)  
+  Proyecto experimental de IA generativa utilizando Java, LangChain4j, OpenAI y MongoDB.  
+  Implementa recuperación semántica de texto con embeddings, consulta natural con GPT y arquitectura limpia para asistentes conversacionales.
 
 (Sumaré más proyectos a medida que los vaya desarrollando.)
+
 
 ---
 
