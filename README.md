@@ -1,6 +1,6 @@
-# 👋 Hola, soy Luciano Barili
+#  Hola, soy Luciano Barili
 
-## 💼 Abogado · Magíster en Derecho Empresario · Apasionado por la tecnología
+##  Abogado · Magíster en Derecho Empresario · Apasionado por la tecnología
 
 Soy abogado recibido en la Universidad Nacional de Mar del Plata, con más de 10 años de experiencia asesorando empresas y particulares en contratos, litigios y estructuras legales complejas. Además, soy Magíster en Derecho Empresario por la Universidad Austral.
 
